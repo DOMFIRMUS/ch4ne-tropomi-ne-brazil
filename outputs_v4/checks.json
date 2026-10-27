@@ -1,0 +1,9 @@
+{
+  "n_months_equals_monthly_stack": true,
+  "legacy_reproduces_published_mu_sigma": false,
+  "legacy_published_n_between_centroid_and_touched": false,
+  "cluster_peaks_within_state_max": true,
+  "cluster_peak_violations": [],
+  "rings_exclusive_and_complete_strict": true,
+  "rings_exclusive_and_complete_relaxed": true
+}

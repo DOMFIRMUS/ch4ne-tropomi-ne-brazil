@@ -1,0 +1,7 @@
+stratum,n_positive,n_mirror,fdr_point_estimate,min_q,n_q_le_threshold
+all,86,49,0.569767,0.538462,0
+peak <= 50 km from coast,4,21,5.25,1,0
+peak > 50 km from coast,82,28,0.341463,0.214286,0
+peak n_obs < 141 (median),37,42,1.13514,1,0
+peak n_obs >= 141 (median),49,7,0.142857,0.125,0
+peak n_obs >= 150 (3 x min_obs),46,6,0.130435,0.0909091,22

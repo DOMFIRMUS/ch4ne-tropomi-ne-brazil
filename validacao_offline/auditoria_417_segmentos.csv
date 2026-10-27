@@ -1,0 +1,418 @@
+ASSET_NAME,CLASS,SRC,len_km,frac_in_NE_land,frac_offshore,frac_other_state,location
+PGA-01 / PGA-07,Gathering Pipeline,gasoduto-escoamento.shp,6.754789742655205,0.0,1.0,0.0,offshore
+FURADO/ROBALO,Gathering Pipeline,gasoduto-escoamento.shp,141.33770462272648,1.0,0.0,0.0,onshore_NE
+POÇO PJN1/ RIO VENTURA,Gathering Pipeline,gasoduto-escoamento.shp,5.292923804257954,1.0,0.0,0.0,onshore_NE
+CARBODUTO 4 SANTIAGO/EST. LAMEIRO,Gathering Pipeline,gasoduto-escoamento.shp,17.180445461561245,1.0,0.0,0.0,onshore_NE
+PCM1/PCM2,Gathering Pipeline,gasoduto-escoamento.shp,1.5215429865501489,0.0,1.0,0.0,offshore
+ENTRE RIOS / ECCP,Gathering Pipeline,gasoduto-escoamento.shp,4.394108895966959,1.0,0.0,0.0,onshore_NE
+BÁLSAMO/IMBÉ,Gathering Pipeline,gasoduto-escoamento.shp,23.93932882764715,1.0,0.0,0.0,onshore_NE
+UPGN-CATU/TAQUIPE,Gathering Pipeline,gasoduto-escoamento.shp,18.815915905096666,1.0,0.0,0.0,onshore_NE
+POÇO ME 2 DF/ARATU,Gathering Pipeline,gasoduto-escoamento.shp,3.0808932281521373,1.0,0.0,0.0,onshore_NE
+MIRANGA NORTE/MIRANGA,Gathering Pipeline,gasoduto-escoamento.shp,5.41190371305517,1.0,0.0,0.0,onshore_NE
+UPGN-CATU/UPGN-CANDEIAS,Gathering Pipeline,gasoduto-escoamento.shp,48.280723076854144,1.0,0.0,0.0,onshore_NE
+PUB-2/PAG-2 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,10.255994461251003,0.0,1.0,0.0,offshore
+UPGN ATALAIA/PGA1,Gathering Pipeline,gasoduto-escoamento.shp,52.663504261903114,0.028,0.972,0.0,offshore
+RIO BU/FAZENDA BÁLSAMO,Gathering Pipeline,gasoduto-escoamento.shp,10.083987462749468,1.0,0.0,0.0,onshore_NE
+JORDÃO / SÍTIO NOVO,Gathering Pipeline,gasoduto-escoamento.shp,6.415584348937916,1.0,0.0,0.0,onshore_NE
+SESMARIA/ARAÇÁS,Gathering Pipeline,gasoduto-escoamento.shp,12.974413408605608,1.0,0.0,0.0,onshore_NE
+RIO POJUCA / UPGN-Catu,Gathering Pipeline,gasoduto-escoamento.shp,4.2792849780464906,1.0,0.0,0.0,onshore_NE
+PCM-02 / PCM-03,Gathering Pipeline,gasoduto-escoamento.shp,1.939254308825356,0.0,1.0,0.0,offshore
+ESTAÇÃO CX/MASSUÍ,Gathering Pipeline,gasoduto-escoamento.shp,1.6593945567840875,1.0,0.0,0.0,onshore_NE
+MANATI / Estação Vandemir Ferreira,Gathering Pipeline,gasoduto-escoamento.shp,95.44295821187181,0.315,0.685,0.0,offshore
+LV/GMR (DN 10 POL),Gathering Pipeline,gasoduto-escoamento.shp,146.37972042944696,1.0,0.0,0.0,onshore_NE
+PXA-3/PCR-1,Gathering Pipeline,gasoduto-escoamento.shp,25.803583430727407,0.0,1.0,0.0,offshore
+RIO PRETO OESTE / RIO PRETO,Gathering Pipeline,gasoduto-escoamento.shp,4.744527651727471,0.0,0.0,1.0,other_state
+PUB-3/ECUB (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,24.45324621173391,0.183,0.817,0.0,offshore
+POÇO PDR1/LAMARÃO,Gathering Pipeline,gasoduto-escoamento.shp,13.764280399721299,1.0,0.0,0.0,onshore_NE
+PCB1/ECA,Gathering Pipeline,gasoduto-escoamento.shp,15.793105346680493,0.038,0.962,0.0,offshore
+PCB-01 / PCB-04,Gathering Pipeline,gasoduto-escoamento.shp,0.7192177673459212,0.0,1.0,0.0,offshore
+RIO ITARIRI / RIO DO BU,Gathering Pipeline,gasoduto-escoamento.shp,3.416876179864228,1.0,0.0,0.0,onshore_NE
+PUB-3/PUB-15 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,3.503883961069637,0.0,1.0,0.0,offshore
+PUB-3/PUB-4,Gathering Pipeline,gasoduto-escoamento.shp,4.368290807064669,0.0,1.0,0.0,offshore
+EST. COMP. CX/UPGN-CANDEIAS,Gathering Pipeline,gasoduto-escoamento.shp,11.926505074777593,1.0,0.0,0.0,onshore_NE
+CSMC-17 / FURADO (MÉDIA),Gathering Pipeline,gasoduto-escoamento.shp,6.350055057009158,1.0,0.0,0.0,onshore_NE
+POÇO MP14/LAMARÃO,Gathering Pipeline,gasoduto-escoamento.shp,3.235812902765757,1.0,0.0,0.0,onshore_NE
+LAMARÃO / UPGN-Candeias,Gathering Pipeline,gasoduto-escoamento.shp,21.50488124282951,1.0,0.0,0.0,onshore_NE
+LIVRAMENTO / LORENA,Gathering Pipeline,gasoduto-escoamento.shp,11.580429722475856,1.0,0.0,0.0,onshore_NE
+CACHOEIRINHA / LIVRAMENTO,Gathering Pipeline,gasoduto-escoamento.shp,3.5884324128662106,1.0,0.0,0.0,onshore_NE
+GUAMARÉ / ESTREITO-A,Gathering Pipeline,gasoduto-escoamento.shp,56.05407171786564,1.0,0.0,0.0,onshore_NE
+SÃO ROQUE/ EST. VÁLVULA MASSUÍ,Gathering Pipeline,gasoduto-escoamento.shp,25.829954344935334,1.0,0.0,0.0,onshore_NE
+PANELAS / UPGN-Catu,Gathering Pipeline,gasoduto-escoamento.shp,18.722797383056967,1.0,0.0,0.0,onshore_NE
+PPE-1-A/UTPF (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,73.9325622829802,0.062,0.938,0.0,offshore
+MACAU - UTPF,Gathering Pipeline,gasoduto-escoamento.shp,18.244912775438955,1.0,0.0,0.0,onshore_NE
+PGA-01 / PGA-05,Gathering Pipeline,gasoduto-escoamento.shp,1.4299910512883842,0.0,1.0,0.0,offshore
+PUB-5/PUB-6,Gathering Pipeline,gasoduto-escoamento.shp,1.5855256434413534,0.0,1.0,0.0,offshore
+VALE QUIRICO/SAT MG 122,Gathering Pipeline,gasoduto-escoamento.shp,6.622657588489474,1.0,0.0,0.0,onshore_NE
+FAZENDA ALVORADA / RIO DO BU,Gathering Pipeline,gasoduto-escoamento.shp,5.23970443844464,1.0,0.0,0.0,onshore_NE
+ESTREITO-A/EST. VAPOR-III (EV-ASSU)ET,Gathering Pipeline,gasoduto-escoamento.shp,3.3450305312078417,1.0,0.0,0.0,onshore_NE
+GN-2-ECCP / OITEIRINHOS-I,Gathering Pipeline,gasoduto-escoamento.shp,51.59237277374034,1.0,0.0,0.0,onshore_NE
+LAGOA SURUACA/VÁLVULA BLOQUEIO-04,Gathering Pipeline,gasoduto-escoamento.shp,32.32016033117681,0.0,0.0,1.0,other_state
+PGA-01/PGA-05,Gathering Pipeline,gasoduto-escoamento.shp,1.4299910604003558,0.0,1.0,0.0,offshore
+SMC-12 / CSMC-17 (ALTA),Gathering Pipeline,gasoduto-escoamento.shp,4.892347799819196,1.0,0.0,0.0,onshore_NE
+PGA-01 / PGA-04,Gathering Pipeline,gasoduto-escoamento.shp,2.032318985321823,0.0,1.0,0.0,offshore
+SÃO ROQUE/UPGN-CANDEIAS,Gathering Pipeline,gasoduto-escoamento.shp,36.05700336290095,1.0,0.0,0.0,onshore_NE
+MIRANGA NORTE/MIRANGA,Gathering Pipeline,gasoduto-escoamento.shp,4.387599053404758,1.0,0.0,0.0,onshore_NE
+PUB-3/PUB-2,Gathering Pipeline,gasoduto-escoamento.shp,3.9406945394477133,0.0,1.0,0.0,offshore
+PCA-02 / FC-02,Gathering Pipeline,gasoduto-escoamento.shp,18.392334711526562,0.0,0.473,0.527,other_state
+CONCEIÇÃO/PANELAS,Gathering Pipeline,gasoduto-escoamento.shp,53.218753203295655,1.0,0.0,0.0,onshore_NE
+LAGOA VERDE / MIRANGA NORTE,Gathering Pipeline,gasoduto-escoamento.shp,3.360039089928337,1.0,0.0,0.0,onshore_NE
+RIACHO SÃO PEDRO/SÃO ROQUE,Gathering Pipeline,gasoduto-escoamento.shp,7.322668461772097,1.0,0.0,0.0,onshore_NE
+CSMC-17 / FURADO (ALTA),Gathering Pipeline,gasoduto-escoamento.shp,6.276176322937528,1.0,0.0,0.0,onshore_NE
+LORENA / UPANEMA,Gathering Pipeline,gasoduto-escoamento.shp,27.0545421505559,1.0,0.0,0.0,onshore_NE
+MA-01 / SM-08,Gathering Pipeline,gasoduto-escoamento.shp,5.953605379925986,0.0,0.0,1.0,other_state
+PCM-05 / PCM-04,Gathering Pipeline,gasoduto-escoamento.shp,1.9033417632614986,0.0,1.0,0.0,offshore
+PARB-3/PPE-1-A (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,8.703868971489758,0.0,1.0,0.0,offshore
+PCB-01 / PCM-06 (FLUXO INVERTIDO),Gathering Pipeline,gasoduto-escoamento.shp,2.4000130506318755,0.0,1.0,0.0,offshore
+MERCÊS / PANELAS,Gathering Pipeline,gasoduto-escoamento.shp,1.4570453442713214,1.0,0.0,0.0,onshore_NE
+ILHA PEQUENA / ATALAIA SUL,Gathering Pipeline,gasoduto-escoamento.shp,12.34599958119867,1.0,0.0,0.0,onshore_NE
+ILHA PEQUENA / ATALAIA,Gathering Pipeline,gasoduto-escoamento.shp,3.8221350002338603,1.0,0.0,0.0,onshore_NE
+IMBÉ/ARAÇAS EST. A,Gathering Pipeline,gasoduto-escoamento.shp,19.72196203576599,1.0,0.0,0.0,onshore_NE
+SERRRARIA/ESTREITO-B,Gathering Pipeline,gasoduto-escoamento.shp,20.07121266313155,1.0,0.0,0.0,onshore_NE
+PPE-2/PPE-1-A (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,1.8020056111067904,0.0,1.0,0.0,offshore
+PCM-09 / PCM-08,Gathering Pipeline,gasoduto-escoamento.shp,1.1568493229780403,0.0,1.0,0.0,offshore
+PUB-2/ECUB (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,23.546938439602105,0.19,0.81,0.0,offshore
+JERICÓ / ENTR. ENTRE RIOS-ECCP,Gathering Pipeline,gasoduto-escoamento.shp,2.0745121767032693,1.0,0.0,0.0,onshore_NE
+PUB-1/PUB-9 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,1.6599553326241032,0.0,1.0,0.0,offshore
+OITEIRINHOS-I / ENTR. PANELAS-ECCP,Gathering Pipeline,gasoduto-escoamento.shp,30.563593960841413,1.0,0.0,0.0,onshore_NE
+SÃO ROQUE/CABORÉ,Gathering Pipeline,gasoduto-escoamento.shp,2.800061708717121,1.0,0.0,0.0,onshore_NE
+PCR-1/UPGN LUBNOR,Gathering Pipeline,gasoduto-escoamento.shp,83.93982667936,0.0,1.0,0.0,offshore
+LAGOA SURUACA / FAZENDA CEDRO,Gathering Pipeline,gasoduto-escoamento.shp,20.65984521862687,0.0,0.0,1.0,other_state
+PUB-5/PUB-3 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,1.793411572806243,0.0,1.0,0.0,offshore
+SÃO PEDRO/SÃO ROQUE,Gathering Pipeline,gasoduto-escoamento.shp,6.679373844565807,1.0,-0.0,0.0,onshore_NE
+SATÉLITE JACUÍPE/SÃO ROQUE,Gathering Pipeline,gasoduto-escoamento.shp,7.561829991289768,1.0,0.0,0.0,onshore_NE
+ILHA PEQUENA / ATALAIA,Gathering Pipeline,gasoduto-escoamento.shp,12.34599958119867,1.0,0.0,0.0,onshore_NE
+SÃO PEDRO / SÃO ROQUE,Gathering Pipeline,gasoduto-escoamento.shp,6.614776464206314,1.0,0.0,0.0,onshore_NE
+FAZENDA CEDRO / FAZENDA ALEGRE,Gathering Pipeline,gasoduto-escoamento.shp,7.207735958037151,0.0,0.0,1.0,other_state
+FAZ CARUACU 7/LAMARÃO,Gathering Pipeline,gasoduto-escoamento.shp,6.882916003695329,1.0,0.0,0.0,onshore_NE
+PCM-01 / PCM-02,Gathering Pipeline,gasoduto-escoamento.shp,1.5215430645496553,0.0,1.0,0.0,offshore
+POUB-1/PUB-4 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,3.2824405590580237,0.0,1.0,0.0,offshore
+PCB-04 / PCB-02,Gathering Pipeline,gasoduto-escoamento.shp,0.7858340827504945,0.0,1.0,0.0,offshore
+PCM-01 / PCM-05,Gathering Pipeline,gasoduto-escoamento.shp,2.532332099038003,0.0,1.0,0.0,offshore
+PGA-01 / PGA-03,Gathering Pipeline,gasoduto-escoamento.shp,1.1623444160773462,0.0,1.0,0.0,offshore
+SIRIRIZINHO-II / SIRIRIZINHO-I,Gathering Pipeline,gasoduto-escoamento.shp,2.6119251571852202,1.0,0.0,0.0,onshore_NE
+UPGN ATALAIA / FAFEN,Gathering Pipeline,gasoduto-escoamento.shp,29.796511148352455,1.0,0.0,0.0,onshore_NE
+PUB-2/PUB-7 (INJEÇÃO),Gathering Pipeline,gasoduto-escoamento.shp,2.350787494045833,0.0,1.0,0.0,offshore
+SUSSUARANA/UPGN-CATU,Gathering Pipeline,gasoduto-escoamento.shp,8.069664155780215,1.0,0.0,0.0,onshore_NE
+PUB-5/PUB-7,Gathering Pipeline,gasoduto-escoamento.shp,1.2331843062355143,0.0,1.0,0.0,offshore
+RIO SÃO MATEUS / SÃO MATEUS,Gathering Pipeline,gasoduto-escoamento.shp,5.695957339361035,0.0,0.0,1.0,other_state
+PUB-1/ESPARGIDOR,Gathering Pipeline,gasoduto-escoamento.shp,0.5763880138349484,0.0,1.0,0.0,offshore
+FAZ. CEDRO-02 / PCA-02,Gathering Pipeline,gasoduto-escoamento.shp,18.073252379195672,0.0,0.481,0.519,other_state
+PGA-01/PGA-02,Gathering Pipeline,gasoduto-escoamento.shp,1.7960826123783593,0.0,1.0,0.0,offshore
+PUB-7/PUB-10 (INJEÇÃO),Gathering Pipeline,gasoduto-escoamento.shp,1.1814095098171633,0.0,1.0,0.0,offshore
+SÃO MATEUS / RIO PRETO,Gathering Pipeline,gasoduto-escoamento.shp,5.659148132142955,0.0,0.0,1.0,other_state
+Estação São Roque / LAMARÃO,Gathering Pipeline,gasoduto-escoamento.shp,14.427172296830308,1.0,0.0,0.0,onshore_NE
+APRAIÚS / MIRANGA NORTE,Gathering Pipeline,gasoduto-escoamento.shp,4.023180818339694,1.0,0.0,0.0,onshore_NE
+PAG-2/ESPARGIDOR,Gathering Pipeline,gasoduto-escoamento.shp,0.17503329149668245,0.0,1.0,0.0,offshore
+PAG-1/ESPARGIDOR,Gathering Pipeline,gasoduto-escoamento.shp,0.15620114855363168,0.0,1.0,0.0,offshore
+BEN-A/ET-B,Gathering Pipeline,gasoduto-escoamento.shp,45.69731332032265,1.0,0.0,0.0,onshore_NE
+PUB-5/PUB-8,Gathering Pipeline,gasoduto-escoamento.shp,1.7405102454564743,0.0,1.0,0.0,offshore
+RFQ/LV,Gathering Pipeline,gasoduto-escoamento.shp,28.2887037706874,1.0,0.0,0.0,onshore_NE
+PUB-2/PUB-5 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,2.667132650788947,0.0,1.0,0.0,offshore
+PGA-01 / PGA-08,Gathering Pipeline,gasoduto-escoamento.shp,4.747258454494605,0.0,1.0,0.0,offshore
+PCM-01 / PCM-07,Gathering Pipeline,gasoduto-escoamento.shp,2.25423018582375,0.0,1.0,0.0,offshore
+ECUB/PUB-2 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,23.582176919065716,0.189,0.811,0.0,offshore
+SIRIZINHO/CARMÓPOLIS,Gathering Pipeline,gasoduto-escoamento.shp,14.096366822020958,1.0,0.0,0.0,onshore_NE
+PARB-1/PPE-1-A NORTE (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,11.26079434606843,0.0,1.0,0.0,offshore
+PARB-2/PPE-1-A (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,8.351917477036817,0.0,1.0,0.0,offshore
+PARB-1/PPE-1-A SUL (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,11.286359244795186,0.0,1.0,0.0,offshore
+FAZ .S. LUZIA / FAZ. S. RAFAEL,Gathering Pipeline,gasoduto-escoamento.shp,5.760201633600141,0.0,0.0,1.0,other_state
+FAZENDA BOA ESPERANÇA / ARAÇÁS,Gathering Pipeline,gasoduto-escoamento.shp,6.902593474731376,1.0,0.0,0.0,onshore_NE
+CARMÓPOLIS / ATALAIA,Gathering Pipeline,gasoduto-escoamento.shp,52.435716526625804,1.0,0.0,0.0,onshore_NE
+PUB-6/PUB-10,Gathering Pipeline,gasoduto-escoamento.shp,0.9617440377478402,0.0,1.0,0.0,offshore
+ECA/PCM1,Gathering Pipeline,gasoduto-escoamento.shp,8.287730323529887,0.085,0.915,0.0,offshore
+BIQUARA / Gasoduto Pescada,Gathering Pipeline,gasoduto-escoamento.shp,0.8521578974680226,0.0,1.0,0.0,offshore
+REMANSO/SÃO ROQUE,Gathering Pipeline,gasoduto-escoamento.shp,2.255042922315915,1.0,0.0,0.0,onshore_NE
+GASODUTO FC-02 / LP,Gathering Pipeline,gasoduto-escoamento.shp,74.54980150412172,0.0,-0.0,1.0,other_state
+ARAÇÁS/UPGN-CATU,Gathering Pipeline,gasoduto-escoamento.shp,37.43888987318559,1.0,0.0,0.0,onshore_NE
+SIRIRIZINHO / CASTANHAL,Gathering Pipeline,gasoduto-escoamento.shp,3.725001651402815,1.0,0.0,0.0,onshore_NE
+FAZ. S. LUZIA / FAZ. S. RAFAEL,Gathering Pipeline,gasoduto-escoamento.shp,5.760201742772577,0.0,0.0,1.0,other_state
+SÃO MIGUEL DOS CAMPOS / Entroncamento FUR-EPRB,Gathering Pipeline,gasoduto-escoamento.shp,1.2026512086770564,1.0,0.0,0.0,onshore_NE
+SÃO MATEUS / FAZENDA CEDRO,Gathering Pipeline,gasoduto-escoamento.shp,37.05212042942782,0.0,0.0,1.0,other_state
+BREJINHO / UPANEMA,Gathering Pipeline,gasoduto-escoamento.shp,7.543453454119875,1.0,0.0,0.0,onshore_NE
+RIO PIPIRI 1/SAT MG 17,Gathering Pipeline,gasoduto-escoamento.shp,4.191266492472667,1.0,0.0,0.0,onshore_NE
+POÇO CGL1/LAMARÃO,Gathering Pipeline,gasoduto-escoamento.shp,9.976194127344728,1.0,0.0,0.0,onshore_NE
+Estação Ferrolho / UPGN-Candeias,Gathering Pipeline,gasoduto-escoamento.shp,9.518129895350027,1.0,0.0,0.0,onshore_NE
+ROBALO / CARMÓPOLIS,Gathering Pipeline,gasoduto-escoamento.shp,30.919130303691706,1.0,0.0,0.0,onshore_NE
+MIRANGA/UPGN-CATU,Gathering Pipeline,gasoduto-escoamento.shp,20.0204396734016,1.0,0.0,0.0,onshore_NE
+PEP-1/ESPARGIDOR,Gathering Pipeline,gasoduto-escoamento.shp,0.14771096745370052,0.0,1.0,0.0,offshore
+PCM1/PCM9,Gathering Pipeline,gasoduto-escoamento.shp,4.839157715271705,0.0,1.0,0.0,offshore
+BIRIBA / MIRANGA,Gathering Pipeline,gasoduto-escoamento.shp,6.260596893802675,1.0,0.0,0.0,onshore_NE
+QUERERÁ/CONCEIÇÃO,Gathering Pipeline,gasoduto-escoamento.shp,54.3164716115475,1.0,0.0,0.0,onshore_NE
+PCM-08 / PCM-06,Gathering Pipeline,gasoduto-escoamento.shp,0.7631951154725648,0.0,1.0,0.0,offshore
+MIRANGA/UPGN-CATU,Gathering Pipeline,gasoduto-escoamento.shp,19.855990987080663,1.0,0.0,0.0,onshore_NE
+CAMAÇARI / UPGN CATU,Gathering Pipeline,gasoduto-escoamento.shp,33.130319961312864,1.0,0.0,0.0,onshore_NE
+PCM-09 / PCM-10,Gathering Pipeline,gasoduto-escoamento.shp,1.5597439932037216,0.0,1.0,0.0,offshore
+CONCEIÇÃO / PANELAS,Gathering Pipeline,gasoduto-escoamento.shp,34.77456560268046,1.0,0.0,0.0,onshore_NE
+MIRANGA/UPGN-CATU,Gathering Pipeline,gasoduto-escoamento.shp,19.98116585649843,1.0,0.0,0.0,onshore_NE
+PPE-3/PPE-1-A (COLETA),Gathering Pipeline,gasoduto-escoamento.shp,2.434131451841471,0.0,1.0,0.0,offshore
+PANELAS/UPGN-CATU,Gathering Pipeline,gasoduto-escoamento.shp,14.257280893820587,1.0,0.0,0.0,onshore_NE
+PANELAS / JERICÓ,Gathering Pipeline,gasoduto-escoamento.shp,2.739354075269537,1.0,0.0,0.0,onshore_NE
+FAZENDA SÃO RAFAEL / Válvula 3,Gathering Pipeline,gasoduto-escoamento.shp,6.208530980078187,0.0,0.0,1.0,other_state
+PXA-1/PXA-3,Gathering Pipeline,gasoduto-escoamento.shp,2.1871401028604587,0.0,1.0,0.0,offshore
+FAZENDA BELEM/MIRANGA,Gathering Pipeline,gasoduto-escoamento.shp,4.801356260815078,1.0,0.0,0.0,onshore_NE
+ITAPARICA/EST. ARATU,Gathering Pipeline,gasoduto-escoamento.shp,33.84121245779805,1.0,0.0,0.0,onshore_NE
+POUB-2/PUB-4 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,4.667180539847848,0.0,1.0,0.0,offshore
+SMC-12 / CSMC-17 (BAIXA),Gathering Pipeline,gasoduto-escoamento.shp,4.844350220165747,1.0,0.0,0.0,onshore_NE
+PML / ET-B (DN 4 POL),Gathering Pipeline,gasoduto-escoamento.shp,48.48783948199017,1.0,0.0,0.0,onshore_NE
+UPGN-CANDEIAS/ETO D. JOÃO,Gathering Pipeline,gasoduto-escoamento.shp,7.688485428953803,1.0,0.0,0.0,onshore_NE
+PILAR / FURADO,Gathering Pipeline,gasoduto-escoamento.shp,35.51881381777499,1.0,0.0,0.0,onshore_NE
+POÇO FAP1/LAMARÃO,Gathering Pipeline,gasoduto-escoamento.shp,18.449368885943624,1.0,0.0,0.0,onshore_NE
+ESTAÇÃO SÃO ROQUE / UPGN-Catu,Gathering Pipeline,gasoduto-escoamento.shp,15.25733310289241,1.0,0.0,0.0,onshore_NE
+NOVA MAGALHÃES / ENTR. ENTRE RIOS-ECCP,Gathering Pipeline,gasoduto-escoamento.shp,1.6826193631886197,1.0,0.0,0.0,onshore_NE
+PAG-2/PAG-1 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,3.768275982922904,0.0,1.0,0.0,offshore
+MASSUÍ / UPGN-Candeias,Gathering Pipeline,gasoduto-escoamento.shp,4.945470099344611,1.0,0.0,0.0,onshore_NE
+SESMARIA / ARAÇÁS,Gathering Pipeline,gasoduto-escoamento.shp,12.838036150366246,1.0,0.0,0.0,onshore_NE
+PAG-1/PAG-3 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,1.1038413619149336,0.0,1.0,0.0,offshore
+BREJO GRANDE / Gasoduto Furado-Robalo,Gathering Pipeline,gasoduto-escoamento.shp,1.915481853469049,1.0,0.0,0.0,onshore_NE
+ECUB/PUB-2 (INJEÇÃO),Gathering Pipeline,gasoduto-escoamento.shp,23.571559092200587,0.189,0.811,0.0,offshore
+SALINA CRISTAL / MACAU,Gathering Pipeline,gasoduto-escoamento.shp,6.805909902422005,1.0,0.0,0.0,onshore_NE
+ECA/PCM1,Gathering Pipeline,gasoduto-escoamento.shp,8.433741646611432,0.113,0.887,0.0,offshore
+SATÉLITE JACUÍPE/SÃO ROQUE,Gathering Pipeline,gasoduto-escoamento.shp,7.5224444058454845,1.0,0.0,0.0,onshore_NE
+SMC-12 / CSMC-17 (MÉDIA),Gathering Pipeline,gasoduto-escoamento.shp,4.8683610911068325,1.0,0.0,0.0,onshore_NE
+CSMC-17 / FURADO (BAIXA),Gathering Pipeline,gasoduto-escoamento.shp,6.42172838996387,1.0,0.0,0.0,onshore_NE
+PUB-2/PUB-1 (GAS LIFT),Gathering Pipeline,gasoduto-escoamento.shp,1.5908268381577757,0.0,1.0,0.0,offshore
+PBGÁS,Distribution Pipeline,gasoduto-distribuicao.shp,90.3024127636173,0.986,0.014,0.0,onshore_NE
+ALGÁS,Distribution Pipeline,gasoduto-distribuicao.shp,409.429608417781,1.0,0.0,0.0,onshore_NE
+Potigás,Distribution Pipeline,gasoduto-distribuicao.shp,89.94692229952693,1.0,0.0,0.0,onshore_NE
+Copergas,Distribution Pipeline,gasoduto-distribuicao.shp,1021.929624509026,1.0,0.0,0.0,onshore_NE
+ES GAS,Distribution Pipeline,gasoduto-distribuicao.shp,484.5268757872539,0.0,0.017,0.983,other_state
+Bahiagás,Distribution Pipeline,gasoduto-distribuicao.shp,571.078623176928,0.997,0.003,0.0,onshore_NE
+SERGÁS,Distribution Pipeline,gasoduto-distribuicao.shp,116.35809780308402,1.0,0.0,0.0,onshore_NE
+CEGAS,Distribution Pipeline,gasoduto-distribuicao.shp,547.7006778616516,0.999,0.001,0.0,onshore_NE
+Nordestão,Transmission Pipeline,gasoduto-transporte.shp,437.2789624999497,1.0,0.0,0.0,onshore_NE
+Candeias - Aratu - Candeias - Dow Química,Transmission Pipeline,gasoduto-transporte.shp,13.3131476598912,0.998,0.002,0.0,onshore_NE
+Santiago/Catu - Camaçari II,Transmission Pipeline,gasoduto-transporte.shp,32.76263622992784,1.0,-0.0,0.0,onshore_NE
+Candeias - Aratu,Transmission Pipeline,gasoduto-transporte.shp,23.192278214301545,0.999,0.001,0.0,onshore_NE
+FAFEN - SERGAS,Transmission Pipeline,gasoduto-transporte.shp,22.841019847327036,1.0,0.0,0.0,onshore_NE
+Dow - Aratu - Camaçari,Transmission Pipeline,gasoduto-transporte.shp,29.81523693212852,1.0,0.0,0.0,onshore_NE
+Pilar-Ipojuca,Transmission Pipeline,gasoduto-transporte.shp,192.49930990159115,1.0,0.0,0.0,onshore_NE
+Candeias - Camaçari,Transmission Pipeline,gasoduto-transporte.shp,37.44737184442966,1.0,0.0,0.0,onshore_NE
+Santiago/Catu - Camaçari I,Transmission Pipeline,gasoduto-transporte.shp,32.76263622992784,1.0,-0.0,0.0,onshore_NE
+Catu-Carmópolis - Itaporanga-Carmopolis,Transmission Pipeline,gasoduto-transporte.shp,66.04406332437651,1.0,0.0,0.0,onshore_NE
+Atalaia-Itaporanga,Transmission Pipeline,gasoduto-transporte.shp,28.697556505358737,1.0,0.0,0.0,onshore_NE
+Santa Rita - São Miguel do Taipu,Transmission Pipeline,gasoduto-transporte.shp,32.25688608202606,1.0,0.0,0.0,onshore_NE
+GASFOR,Transmission Pipeline,gasoduto-transporte.shp,388.8695367217655,1.0,0.0,0.0,onshore_NE
+Cacimbas-Catu,Transmission Pipeline,gasoduto-transporte.shp,954.5788599811287,0.837,0.0,0.163,onshore_NE
+Catu-Carmópolis - Catu-Itaporanga,Transmission Pipeline,gasoduto-transporte.shp,200.75861112750673,1.0,0.0,0.0,onshore_NE
+Atalaia-Laranjeiras (GAL),Transmission Pipeline,gasoduto-transporte.shp,29.796821738324446,1.0,0.0,0.0,onshore_NE
+Carmópolis-Pilar,Transmission Pipeline,gasoduto-transporte.shp,209.08537601679296,1.0,0.0,0.0,onshore_NE
+Guamaré-Cabo,Transmission Pipeline,gasoduto-transporte.shp,32.464511574586425,1.0,0.0,0.0,onshore_NE
+TERMOPE-Ramal Termopernambuco,Transmission Pipeline,gasoduto-transporte.shp,10.426946651114523,1.0,0.0,0.0,onshore_NE
+GASALP,Transmission Pipeline,gasoduto-transporte.shp,207.31422823127667,1.0,0.0,0.0,onshore_NE
+Açu-Serra do Mel,Transmission Pipeline,gasoduto-transporte.shp,31.8513038912332,1.0,0.0,0.0,onshore_NE
+Ramal Aracati,Transmission Pipeline,gasoduto-transporte.shp,6.940392399508968,1.0,0.0,0.0,onshore_NE
+GASEB,Transmission Pipeline,gasoduto-transporte.shp,231.9236351405057,1.0,0.0,0.0,onshore_NE
+OLEODUTO PAT-2/PXA-3,Oil Pipeline,oleoduto.shp,10.15923115432461,0.0,1.0,0.0,offshore
+OLEODUTO PAT-2/PAT-3,Oil Pipeline,oleoduto.shp,0.7964629656777454,0.0,1.0,0.0,offshore
+"OL. 10"" ETO IMBÉ/EST. A ARAÇÁS",Oil Pipeline,oleoduto.shp,19.83238823158326,1.0,0.0,0.0,onshore_NE
+"OL. 12"" EST. VÁLVULA BIRIBA/EST. RECIFE",Oil Pipeline,oleoduto.shp,17.28534632900669,1.0,0.0,0.0,onshore_NE
+"OL. 6"" EST. CX / EST. VÁLVULA MASSUÍ",Oil Pipeline,oleoduto.shp,1.6610755395686667,1.0,0.0,0.0,onshore_NE
+OLEODUTO PEP-1/PCR-2,Oil Pipeline,oleoduto.shp,6.018599288134007,0.0,1.0,0.0,offshore
+OLEODUTO PXA-1/QBOIA XAREU,Oil Pipeline,oleoduto.shp,0.6812353628066729,0.0,1.0,0.0,offshore
+OLEODUTO PXA-2/PXA-1,Oil Pipeline,oleoduto.shp,1.1007820738837275,0.0,1.0,0.0,offshore
+OLEODUTO FP-CENTRAL/GMR DN 26 POL,Oil Pipeline,oleoduto.shp,25.580877304718427,1.0,0.0,0.0,onshore_NE
+OLEODUTO MACAU-A/GMR DN 6 POL,Oil Pipeline,oleoduto.shp,19.547457814461218,1.0,0.0,0.0,onshore_NE
+PE-6-PGA1/PGA3,Oil Pipeline,oleoduto.shp,1.1623523448079587,0.0,1.0,0.0,offshore
+PE-6-PGA4/PGA3,Oil Pipeline,oleoduto.shp,1.4747462002073308,0.0,1.0,0.0,offshore
+PE-6-PGA5/PGA2,Oil Pipeline,oleoduto.shp,1.6065819225137705,0.0,1.0,0.0,offshore
+PE-4-PDO-03 / PDO-02,Oil Pipeline,oleoduto.shp,1.5309911677305963,0.0,1.0,0.0,offshore
+PE-8-PCM8/PCM6,Oil Pipeline,oleoduto.shp,0.763200244342504,0.0,1.0,0.0,offshore
+PE-8-PCB3/PCB2,Oil Pipeline,oleoduto.shp,0.46937175208465726,0.0,1.0,0.0,offshore
+PE-8-PCM11/PCM9,Oil Pipeline,oleoduto.shp,0.8537521674815711,0.0,1.0,0.0,offshore
+PE-8-PCM10/PCM9,Oil Pipeline,oleoduto.shp,1.5597539259405755,0.0,1.0,0.0,offshore
+PE-8-PCB4/PCB1,Oil Pipeline,oleoduto.shp,0.7192233059262566,0.0,1.0,0.0,offshore
+PE-3-PDO-02 / PDO-01,Oil Pipeline,oleoduto.shp,2.071590942664499,0.0,1.0,0.0,offshore
+PE-12-PGA-08 / PGA-03,Oil Pipeline,oleoduto.shp,4.680554583963068,0.0,1.0,0.0,offshore
+OLEODUTO PAT-3/PAT-2,Oil Pipeline,oleoduto.shp,2.4270834936163195,0.0,1.0,0.0,offshore
+EP-5/PEP-1,Oil Pipeline,oleoduto.shp,1.4449028421535468,0.0,1.0,0.0,offshore
+PE-10-PCM7/PCM1,Oil Pipeline,oleoduto.shp,2.2542432099543297,0.0,1.0,0.0,offshore
+PE-10-PCB2/PCB1,Oil Pipeline,oleoduto.shp,1.1766379642105806,0.0,1.0,0.0,offshore
+PE-10-PDO1/PGA3,Oil Pipeline,oleoduto.shp,10.1800577312751,0.0,1.0,0.0,offshore
+PE-10-PGA2/PGA3,Oil Pipeline,oleoduto.shp,2.754376264880799,0.0,1.0,0.0,offshore
+PE-12-PCM2/PCM1,Oil Pipeline,oleoduto.shp,1.8536260515712808,0.0,1.0,0.0,offshore
+"OL. 8"" ETO BÁLSAMO/ETO IMBÉ",Oil Pipeline,oleoduto.shp,23.548815746929325,1.0,0.0,0.0,onshore_NE
+"OL. 12"" EST. RECIFE/EST. S. PAULO",Oil Pipeline,oleoduto.shp,51.744615240740735,1.0,0.0,0.0,onshore_NE
+PE-6-PGA6/PGA2,Oil Pipeline,oleoduto.shp,3.368203878253621,0.0,1.0,0.0,offshore
+OLEODUTO CN-B/OLEODUTO DN 24 POL - DN 8 POL,Oil Pipeline,oleoduto.shp,13.482036444946887,1.0,0.0,0.0,onshore_NE
+OLEODUTO RFQ/LPX (DN 6 POL),Oil Pipeline,oleoduto.shp,28.350944312597797,1.0,0.0,0.0,onshore_NE
+OLEODUTO TM/LOR (DN 4 POL),Oil Pipeline,oleoduto.shp,19.558341887976386,1.0,0.0,0.0,onshore_NE
+OLEODUTO PART-1/MACAU,Oil Pipeline,oleoduto.shp,7.877576982160589,0.211,0.789,0.0,offshore
+OLEODUTO CAM-L/CAM-B (DN 8 POL),Oil Pipeline,oleoduto.shp,5.758984880317854,1.0,0.0,0.0,onshore_NE
+PE-12-PCM4/PCM5,Oil Pipeline,oleoduto.shp,1.9033534734937652,0.0,1.0,0.0,offshore
+PE-16-PCM6/PCM5,Oil Pipeline,oleoduto.shp,4.765633039909323,0.0,1.0,0.0,offshore
+OLEODUTO PXA-3/PXA-1,Oil Pipeline,oleoduto.shp,2.1238775250842337,0.0,1.0,0.0,offshore
+OLEODUTO PART-2/OL.PART-1_MACAU,Oil Pipeline,oleoduto.shp,2.121732137282329,0.0,1.0,0.0,offshore
+OLEODUTO BR/UPN (DN 6 POL-PRODUÇÃO),Oil Pipeline,oleoduto.shp,5.938207253388785,1.0,0.0,0.0,onshore_NE
+OLEODUTO SCR-A/CN-B DN 8 POL (AÉREO),Oil Pipeline,oleoduto.shp,2.7526312917966274,1.0,0.0,0.0,onshore_NE
+PANELAS/CAMBOATA,Oil Pipeline,oleoduto.shp,8.413851669650914,1.0,0.0,0.0,onshore_NE
+MALOMBE/FAZENDA BÁLSAMO,Oil Pipeline,oleoduto.shp,4.6284712500527565,1.0,0.0,0.0,onshore_NE
+POÇO MDU2/ARAÇÁS,Oil Pipeline,oleoduto.shp,7.665055959734945,1.0,0.0,0.0,onshore_NE
+RIACHO BARRA/FAZENDA IMBÉ,Oil Pipeline,oleoduto.shp,2.475475014621809,1.0,0.0,0.0,onshore_NE
+RIACHO BARRA/FAZENDA IMBÉ,Oil Pipeline,oleoduto.shp,2.4735211375116224,1.0,0.0,0.0,onshore_NE
+OLEODUTO PAT-2/Q.BOIA ATUM,Oil Pipeline,oleoduto.shp,0.6907068538429619,0.0,1.0,0.0,offshore
+OLEODUTO CAM-B/CAM-CENTRAL (DN 13 3/8 POL),Oil Pipeline,oleoduto.shp,5.221016868627223,1.0,0.0,0.0,onshore_NE
+OLEODUTO EC-7 / EC-3  FZB (DN 8 POL),Oil Pipeline,oleoduto.shp,3.926656647957918,1.0,0.0,0.0,onshore_NE
+OLEODUTO EC-06 / ETO FZB (DN 10 POL),Oil Pipeline,oleoduto.shp,1.1412155338560628,1.0,-0.0,0.0,onshore_NE
+OLEODUTO EC-05 / ETO FZB (DN 16 POL),Oil Pipeline,oleoduto.shp,3.13267744053163,1.0,-0.0,0.0,onshore_NE
+OLEODUTO EC-04 / ETO FZB (DN 10 POL),Oil Pipeline,oleoduto.shp,1.128124524079975,1.0,0.0,0.0,onshore_NE
+OLEODUTO EC-03 / ETO FZB (DN 12 POL),Oil Pipeline,oleoduto.shp,2.3094455591880942,1.0,0.0,0.0,onshore_NE
+OLEODUTO EC-02 / EC-01 FZB (DN 8 POL),Oil Pipeline,oleoduto.shp,1.6289874076126376,1.0,0.0,0.0,onshore_NE
+OLEODUTO EC-01 / ETO  FZB (DN 10 POL),Oil Pipeline,oleoduto.shp,1.188095590479679,1.0,-0.0,0.0,onshore_NE
+FAZENDA ALVORADA/RIO BU,Oil Pipeline,oleoduto.shp,5.366504989459982,1.0,0.0,0.0,onshore_NE
+RIO BU/FAZENDA BÁLSAMO,Oil Pipeline,oleoduto.shp,9.928121194657546,1.0,0.0,0.0,onshore_NE
+RIO OVOS/TRONCO RIO BU,Oil Pipeline,oleoduto.shp,2.085694823125649,1.0,0.0,0.0,onshore_NE
+RIO ITARIRI/RIO BU,Oil Pipeline,oleoduto.shp,4.251406511453261,1.0,0.0,0.0,onshore_NE
+OLEODUTO BE / LPX (DN 10 POL),Oil Pipeline,oleoduto.shp,5.502999326543406,1.0,0.0,0.0,onshore_NE
+OLEODUTO CAM-CENTRAL/ET-A (DN 16 POL),Oil Pipeline,oleoduto.shp,56.78235955587938,1.0,0.0,0.0,onshore_NE
+OLEODUTO PAG-1/PAG-2,Oil Pipeline,oleoduto.shp,3.804497011496899,0.0,1.0,0.0,offshore
+OLEODUTO TM / LPX (DN 6 POL),Oil Pipeline,oleoduto.shp,35.18467273619298,1.0,0.0,0.0,onshore_NE
+FAZENDA POCINHO/GUAMARÉ,Oil Pipeline,oleoduto.shp,27.9672844539592,1.0,0.0,0.0,onshore_NE
+OLEODUTO LV/ET-B (DN 10 POL),Oil Pipeline,oleoduto.shp,81.88103910006163,1.0,0.0,0.0,onshore_NE
+CASSARONGONGO/CAMBOATA,Oil Pipeline,oleoduto.shp,1.0526868411142014,1.0,0.0,0.0,onshore_NE
+RIO POJUCA/RIO VENTURA,Oil Pipeline,oleoduto.shp,6.614010427878171,1.0,0.0,0.0,onshore_NE
+OLEODUTO ET-C/ET-A DN 8 POL,Oil Pipeline,oleoduto.shp,3.419271205575403,1.0,0.0,0.0,onshore_NE
+OLEODUTO VRG / LPX (DN 8 POL),Oil Pipeline,oleoduto.shp,11.546395172302079,1.0,0.0,0.0,onshore_NE
+OLEODUTO PUB-3/Q.BÓIAS,Oil Pipeline,oleoduto.shp,7.592524382296275,0.0,1.0,0.0,offshore
+"LGN. 4"" UPGN-CATU/RLAM",Oil Pipeline,oleoduto.shp,49.567210619424664,1.0,0.0,0.0,onshore_NE
+APRAIUS/MIRANGA NORTE,Oil Pipeline,oleoduto.shp,4.636709005797881,1.0,0.0,0.0,onshore_NE
+OLEODUTO ET-A/GMR DN 24 POL,Oil Pipeline,oleoduto.shp,55.988359441790564,1.0,0.0,0.0,onshore_NE
+OLEODUTO ET-R/ET-A DN 8 POL,Oil Pipeline,oleoduto.shp,2.663385761952651,1.0,0.0,0.0,onshore_NE
+OLEODUTO SM-08 / FC-02 (ANTIGO),Oil Pipeline,oleoduto.shp,37.10408791904523,0.0,0.0,1.0,other_state
+JUAZEIRO/LORENA,Oil Pipeline,oleoduto.shp,14.001914723399398,1.0,0.0,0.0,onshore_NE
+BAIXA ALGODÃO/LORENA,Oil Pipeline,oleoduto.shp,25.694517929617124,1.0,0.0,0.0,onshore_NE
+FAZENDA MALAQUIAS/LORENA,Oil Pipeline,oleoduto.shp,24.480431740162988,1.0,0.0,0.0,onshore_NE
+OLEODUTO PX / LPX (DN 3 POL-TESTE),Oil Pipeline,oleoduto.shp,5.820933243856628,1.0,0.0,0.0,onshore_NE
+OLEODUTO ART-1/ARA DN 10 POL,Oil Pipeline,oleoduto.shp,1.9344138283038017,1.0,0.0,0.0,onshore_NE
+OLEODUTO ART-2/ARA DN 6 POL,Oil Pipeline,oleoduto.shp,0.19702559601090341,1.0,0.0,0.0,onshore_NE
+OLEODUTO ART-3/ARA DN 10 POL,Oil Pipeline,oleoduto.shp,1.4095608170286424,1.0,0.0,0.0,onshore_NE
+OLEODUTO PCA-02 / FC-02,Oil Pipeline,oleoduto.shp,18.444674405038956,0.0,0.467,0.533,other_state
+PE-6-MERCÊS / PANELAS,Oil Pipeline,oleoduto.shp,1.4475460868043193,1.0,0.0,0.0,onshore_NE
+PE-6-OITEIRINHOS-I  / ENTR. ROBALO-BONSUCESSO,Oil Pipeline,oleoduto.shp,30.5332947150911,1.0,0.0,0.0,onshore_NE
+PE-6-JERICÓ / ENTR. ROBALO-BONSUCESSO,Oil Pipeline,oleoduto.shp,28.214462363593874,1.0,0.0,0.0,onshore_NE
+PE-6-OITEIRINHOS-II / ENTR. ROBALO-BONSUCESSO,Oil Pipeline,oleoduto.shp,31.364268740259433,1.0,0.0,0.0,onshore_NE
+PE-6-SANTA BÁRBARA / ENTR. SZ-I-BONSUCESSO,Oil Pipeline,oleoduto.shp,0.9510931065060477,1.0,0.0,0.0,onshore_NE
+PE-6-COQUEIRO / ENTR. BONFIM-PEDRA BRANCA,Oil Pipeline,oleoduto.shp,0.5337378958713573,1.0,0.0,0.0,onshore_NE
+PE-6-ENTRE RIOS /ENTR. ROBALO-BONSUCESSO,Oil Pipeline,oleoduto.shp,26.29899213216452,1.0,0.0,0.0,onshore_NE
+PE-6-JORDÃO / ENTR. BONSUCESSO-ATALAIA,Oil Pipeline,oleoduto.shp,9.239471918964371,1.0,0.0,0.0,onshore_NE
+OLEODUTO PUB-5/PUB-3,Oil Pipeline,oleoduto.shp,1.855707245327027,0.0,1.0,0.0,offshore
+OLEODUTO PUB-5/PUB-8,Oil Pipeline,oleoduto.shp,1.9102796878157153,0.0,1.0,0.0,offshore
+OLEODUTO PUB-7/PUB-5,Oil Pipeline,oleoduto.shp,1.1268345918670466,0.0,1.0,0.0,offshore
+OLEODUTO PUB-8/PUB-1,Oil Pipeline,oleoduto.shp,1.737781969747057,0.0,1.0,0.0,offshore
+OLEODUTO PUB-9/PUB-1,Oil Pipeline,oleoduto.shp,1.5183481160789918,0.0,1.0,0.0,offshore
+"OL. 20"" EST. RECIFE/EST. S. PAULO",Oil Pipeline,oleoduto.shp,43.68866622226305,1.0,0.0,0.0,onshore_NE
+MIRANGA NORTE/MIRANGA,Oil Pipeline,oleoduto.shp,5.493195598341043,1.0,0.0,0.0,onshore_NE
+REMANSO/SÃO ROQUE,Oil Pipeline,oleoduto.shp,2.2574640769404146,1.0,0.0,0.0,onshore_NE
+OLEODUTO FC-02 / TERMINAL,Oil Pipeline,oleoduto.shp,74.88983153344594,0.0,0.0,1.0,other_state
+OLEODUTO PAG-2/PUB-2,Oil Pipeline,oleoduto.shp,10.430819655807937,0.0,1.0,0.0,offshore
+OLEODUTO PCR-1/PXA-3,Oil Pipeline,oleoduto.shp,26.5406196125255,0.0,1.0,0.0,offshore
+OLEODUTO PCR-2/Q.BOIAS CURIMÃ,Oil Pipeline,oleoduto.shp,0.9050398400195248,0.0,1.0,0.0,offshore
+OLEODUTO PUB-1/PUB-3,Oil Pipeline,oleoduto.shp,3.946466094328234,0.0,1.0,0.0,offshore
+PGA-01/PGA-05,Oil Pipeline,oleoduto.shp,1.3567285426157216,0.0,1.0,0.0,offshore
+PE-6-SZ-I / BONSUCESSO,Oil Pipeline,oleoduto.shp,11.957830948235143,1.0,0.0,0.0,onshore_NE
+PE-6-SÍTIO NOVO / ENTR. SZ-I-BONSUCESSO,Oil Pipeline,oleoduto.shp,2.7074461527017846,1.0,0.0,0.0,onshore_NE
+PE-6-PANELAS / ENTR. ROBALO-BONSUCESSO,Oil Pipeline,oleoduto.shp,35.87841188315299,1.0,0.0,0.0,onshore_NE
+OLEODUTO PUB-6/PUB-5,Oil Pipeline,oleoduto.shp,1.5185631057009845,0.0,1.0,0.0,offshore
+OLEODUTO PUB-15/PUB-3,Oil Pipeline,oleoduto.shp,3.4954693803443653,0.0,1.0,0.0,offshore
+OLEODUTO PUB-15/PUB-4,Oil Pipeline,oleoduto.shp,2.510341018563041,0.0,1.0,0.0,offshore
+"OL. 12"" EST. A ARAÇÁS/EST. RECIFE",Oil Pipeline,oleoduto.shp,38.90791763759926,1.0,0.0,0.0,onshore_NE
+"OL. 8"" EST. CAMBOATÁ/EST. S. SEBASTIÃO",Oil Pipeline,oleoduto.shp,32.266301561558954,1.0,0.0,0.0,onshore_NE
+PE-6-NOVA MAGALHÃES / ENTR. ROBALO-BONSUCESSO,Oil Pipeline,oleoduto.shp,27.781526748749034,1.0,0.0,0.0,onshore_NE
+PE-4-SZ-II / ENTR. SZ-I-BONSUCESSO,Oil Pipeline,oleoduto.shp,2.581423876704944,1.0,0.0,0.0,onshore_NE
+PE-6-SANTO ANTÔNIO / ENTR. ROBALO-BONSUCESSO,Oil Pipeline,oleoduto.shp,33.09191802529886,1.0,0.0,0.0,onshore_NE
+OLEODUTO PUB-2/PUB-1,Oil Pipeline,oleoduto.shp,1.7193066812937572,0.0,1.0,0.0,offshore
+OLEODUTO PUB-3/ETO-GMR,Oil Pipeline,oleoduto.shp,24.155446386917003,0.188,0.812,0.0,offshore
+OLEODUTO PUB-4/PUB-3,Oil Pipeline,oleoduto.shp,4.32509515776678,0.0,1.0,0.0,offshore
+OLEODUTO FSR / VB-03,Oil Pipeline,oleoduto.shp,8.560002704370556,0.0,0.0,1.0,other_state
+ORSUB 8 - IPIAU-ITABUNA,Oil Pipeline,oleoduto.shp,94.43725130694583,1.0,0.0,0.0,onshore_NE
+ORSUB 10 - MADRE DE DEUS-IPIAU,Oil Pipeline,oleoduto.shp,226.6825443239848,1.0,0.0,0.0,onshore_NE
+ORSUB 8 - IPIAU-JEQUIE,Oil Pipeline,oleoduto.shp,73.58337769223348,1.0,0.0,0.0,onshore_NE
+6-AL-04-009-CA,Oil Pipeline,oleoduto.shp,4.363261030202638,1.0,0.0,0.0,onshore_NE
+OLEODUTO PAT-1/PAT-2,Oil Pipeline,oleoduto.shp,3.0694622756318006,0.0,1.0,0.0,offshore
+OLEODUTO PAT-1/PAT-3,Oil Pipeline,oleoduto.shp,2.1650767577101098,0.0,1.0,0.0,offshore
+RLAM - PONTO A - BR-TEMAT (PP-4 POL) PROPENO,Oil Pipeline,oleoduto.shp,21.64531955529152,1.0,0.0,0.0,onshore_NE
+8-OC-06-002-CA,Oil Pipeline,oleoduto.shp,34.931042362335404,1.0,0.0,0.0,onshore_NE
+OLEODUTO RM-01 / SM-01,Oil Pipeline,oleoduto.shp,1.6919907512600894,0.0,0.0,1.0,other_state
+OLEODUTO RM-01 / SM-08,Oil Pipeline,oleoduto.shp,4.112346997704635,0.0,0.0,1.0,other_state
+MAT. PRIMA/BRASK,Oil Pipeline,oleoduto.shp,31.715551545080594,1.0,0.0,0.0,onshore_NE
+MAT. PRIMA/BRASK,Oil Pipeline,oleoduto.shp,28.127132358938532,1.0,0.0,0.0,onshore_NE
+8-HC-05-003-CA (RETORNO CLAROS),Oil Pipeline,oleoduto.shp,27.904037585882854,1.0,0.0,0.0,onshore_NE
+MAT. PRIMA/BRASK,Oil Pipeline,oleoduto.shp,27.418740328377403,1.0,0.0,0.0,onshore_NE
+PROPENO BRASKEM/TEGAL,Oil Pipeline,oleoduto.shp,28.024064642145476,1.0,0.0,0.0,onshore_NE
+12-OC-06-001-CA (OC1-A),Oil Pipeline,oleoduto.shp,35.4466595258004,1.0,0.0,0.0,onshore_NE
+14-NP-05-002-CA (NAFTA 2),Oil Pipeline,oleoduto.shp,36.16751739565799,1.0,0.0,0.0,onshore_NE
+14-NP-05-001-CA (NAFTA 1),Oil Pipeline,oleoduto.shp,36.06785203002706,1.0,0.0,0.0,onshore_NE
+"LGN. 4"" UPGN-CANDEIAS/RLAM",Oil Pipeline,oleoduto.shp,1.0435747648355043,1.0,0.0,0.0,onshore_NE
+OLEODUTO MO-URB,Oil Pipeline,oleoduto.shp,3.8496212706528614,1.0,0.0,0.0,onshore_NE
+FAZENDA CANAAN/ALTO DA PEDRA,Oil Pipeline,oleoduto.shp,5.915073164693406,1.0,0.0,0.0,onshore_NE
+SÃO MIGUEL/MISTURA CAJAZEIRA,Oil Pipeline,oleoduto.shp,27.92833489530323,1.0,0.0,0.0,onshore_NE
+OLEODUTO PJ / EC MO-A (DN 6 POL),Oil Pipeline,oleoduto.shp,16.055724729808023,1.0,0.0,0.0,onshore_NE
+6-GA-04-026-CA,Oil Pipeline,oleoduto.shp,4.346270455063591,1.0,0.0,0.0,onshore_NE
+"OL. 6"" EST. CAMBOATÁ/EST. SÃO SEBASTIÃO",Oil Pipeline,oleoduto.shp,32.124815190831335,1.0,0.0,0.0,onshore_NE
+PE-12-ROBALO / BONSUCESSO,Oil Pipeline,oleoduto.shp,33.4946110035583,1.0,0.0,0.0,onshore_NE
+PE-6-FURADO / PILAR,Oil Pipeline,oleoduto.shp,36.863634232410604,1.0,0.0,0.0,onshore_NE
+OLEODUTO EM-CJ/ EC AP-A (DN 8 POL),Oil Pipeline,oleoduto.shp,8.243163692108082,1.0,0.0,0.0,onshore_NE
+PE-6-BONFIM / ENTR. BONSUCESSO-ATALAIA,Oil Pipeline,oleoduto.shp,12.016295178312303,1.0,0.0,0.0,onshore_NE
+OLEODUTO SM-08 / FC-02,Oil Pipeline,oleoduto.shp,37.16065038778082,0.0,0.0,1.0,other_state
+PE-16-PGA3/EPA,Oil Pipeline,oleoduto.shp,16.954657578849243,0.043,0.957,0.0,offshore
+PE-16-PCM5/PCM1,Oil Pipeline,oleoduto.shp,2.5323502221893928,0.0,1.0,0.0,offshore
+PE-6-PDO2/PDO1,Oil Pipeline,oleoduto.shp,2.0715908767862627,0.0,1.0,0.0,offshore
+PE-10-PGA7/PGA2,Oil Pipeline,oleoduto.shp,4.9422065225649074,0.0,1.0,0.0,offshore
+OSUB-26 (ATALAIA/QDBOIAS),Oil Pipeline,oleoduto.shp,7.442666324212159,0.05,0.95,0.0,offshore
+OPIMAC,Oil Pipeline,oleoduto.shp,29.035606261234097,1.0,0.0,0.0,onshore_NE
+OLEODUTO PUB-1/PUB-2,Oil Pipeline,oleoduto.shp,1.588505211707307,0.0,1.0,0.0,offshore
+OLEODUTO PUB-9/PUB-2,Oil Pipeline,oleoduto.shp,1.9828567964768913,0.0,1.0,0.0,offshore
+OLEODUTO REP-A/CAM-B (DN 8 POL),Oil Pipeline,oleoduto.shp,19.839309951081948,1.0,0.0,0.0,onshore_NE
+OLEODUTO REP-A/CAM-L (DN 6 POL),Oil Pipeline,oleoduto.shp,14.091039598688399,1.0,0.0,0.0,onshore_NE
+PE-10-PCM3/PCM2,Oil Pipeline,oleoduto.shp,8.333694458682615,0.076,0.924,0.0,offshore
+OLEODUTO AP-A/CAM-CENTRAL (13 3/8 POL),Oil Pipeline,oleoduto.shp,13.789752459268165,1.0,0.0,0.0,onshore_NE
+OLEODUTO PAG-3/PAG-1,Oil Pipeline,oleoduto.shp,1.080001598782251,0.0,1.0,0.0,offshore
+PE-22-PCB1/EPA,Oil Pipeline,oleoduto.shp,15.793219578451179,0.038,0.962,0.0,offshore
+OLEODUTO PUB-10/PUB-6,Oil Pipeline,oleoduto.shp,0.9830370569643427,0.0,1.0,0.0,offshore
+PUB-10/PUB-7,Oil Pipeline,oleoduto.shp,1.2130047245351436,0.0,1.0,0.0,offshore
+OLEODUTO PUB-8/PUB-2,Oil Pipeline,oleoduto.shp,1.5111688606855218,0.0,1.0,0.0,offshore
+PUB-4/POUB-2,Oil Pipeline,oleoduto.shp,4.545210124170182,0.0,1.0,0.0,offshore
+PUB-4/POUB-1,Oil Pipeline,oleoduto.shp,3.307303849702514,0.0,1.0,0.0,offshore
+OLEODUTO CJ-A / AP-B (DN 3 POL),Oil Pipeline,oleoduto.shp,2.9354860281449584,1.0,0.0,0.0,onshore_NE
+OLEODUTO FMQ / TM (DN 3 POL),Oil Pipeline,oleoduto.shp,4.721691055682239,1.0,0.0,0.0,onshore_NE
+OLEODUTO BAL / TM (DN 4 POL),Oil Pipeline,oleoduto.shp,6.26283361428758,1.0,0.0,0.0,onshore_NE
+OLEODUTO SMI / PJ (DN 4 POL),Oil Pipeline,oleoduto.shp,6.804760727470532,1.0,0.0,0.0,onshore_NE
+OLEODUTO FSL / FSR,Oil Pipeline,oleoduto.shp,5.760227303133715,0.0,0.0,1.0,other_state
+RIO SÃO MATEUS/RIO PRETO,Oil Pipeline,oleoduto.shp,11.489691903078981,0.0,0.0,1.0,other_state
+OLEODUTO RP-02 / SM-08,Oil Pipeline,oleoduto.shp,4.035533103830703,0.0,0.0,1.0,other_state
+OLEODUTO CAC / LV (DN 4 POL),Oil Pipeline,oleoduto.shp,3.5884614636137466,1.0,0.0,0.0,onshore_NE
+OLEODUTO CAC / LV (DN 3 POL-TESTE),Oil Pipeline,oleoduto.shp,3.5884614636137466,1.0,0.0,0.0,onshore_NE
+OLEODUTO CJ-B / EM-CJ (DN 3 POL),Oil Pipeline,oleoduto.shp,2.316762162874056,1.0,0.0,0.0,onshore_NE
+OLEODUTO CAM-E / CAM-CENTRAL (DN 8 POL),Oil Pipeline,oleoduto.shp,0.6266510629370203,1.0,0.0,0.0,onshore_NE
+OLEODUTO CAM-E / CAM-CENTRAL (DN 6 POL),Oil Pipeline,oleoduto.shp,0.6266510629370203,1.0,0.0,0.0,onshore_NE
+OLEODUTO REP-B / REP-A (DN 4 POL),Oil Pipeline,oleoduto.shp,3.324926475233243,1.0,0.0,0.0,onshore_NE
+OLEODUTO ET-A/FP-CENTRAL DN 26 POL,Oil Pipeline,oleoduto.shp,29.918144272180164,1.0,0.0,0.0,onshore_NE
+PE-4-4-4-SATELITE CP-205 / ENTRE RIOS,Oil Pipeline,oleoduto.shp,2.069897603183458,1.0,0.0,0.0,onshore_NE
+PE-4-4-SATELITE CP-163 / ENTRE RIOS,Oil Pipeline,oleoduto.shp,1.3714900450226566,1.0,0.0,0.0,onshore_NE
+PE-4-4-SAT RO-248 / TREME,Oil Pipeline,oleoduto.shp,1.6717352444600915,1.0,0.0,0.0,onshore_NE
+OLEODUTO SM-01 / SM-08 (ANTIGO),Oil Pipeline,oleoduto.shp,2.426760501457819,0.0,0.0,1.0,other_state
+OLEODUTO MA-01 / SM-01,Oil Pipeline,oleoduto.shp,1.6919906441367938,0.0,0.0,1.0,other_state
+OLEODUTO SM-01 / SM-08,Oil Pipeline,oleoduto.shp,2.4267602752838067,0.0,0.0,1.0,other_state
+OLEODUTO ART-2/ARA DN 10 POL,Oil Pipeline,oleoduto.shp,3.6222996986091167,1.0,0.0,0.0,onshore_NE
+OLEODUTO ART-4/ARB DN 8 POL,Oil Pipeline,oleoduto.shp,3.6584229302125286,1.0,0.0,0.0,onshore_NE
+OLEODUTO ART-4/ARB DN 6 POL,Oil Pipeline,oleoduto.shp,3.658422965734974,1.0,0.0,0.0,onshore_NE
+OLEODUTO ET-B/ET-A NOVO DN 16 POL,Oil Pipeline,oleoduto.shp,8.633398636329725,1.0,0.0,0.0,onshore_NE
+12-OL-04-005-CA  (PBS),Oil Pipeline,oleoduto.shp,6.2781447183187655,1.0,0.0,0.0,onshore_NE
+10-OC-04-018-CA  (OC-1B L1),Oil Pipeline,oleoduto.shp,6.390188814695953,1.0,0.0,0.0,onshore_NE
+10-OC-04-017-CA  (OC-1A L2),Oil Pipeline,oleoduto.shp,4.364839729776044,1.0,0.0,0.0,onshore_NE
+10-GA-04-007-CA,Oil Pipeline,oleoduto.shp,2.463653311481255,1.0,0.0,0.0,onshore_NE
+OLEODUTO LPX/ET-B,Oil Pipeline,oleoduto.shp,86.43226058771198,1.0,0.0,0.0,onshore_NE
+6-OL-04-019-CA,Oil Pipeline,oleoduto.shp,6.320178517993811,1.0,0.0,0.0,onshore_NE
+12-GA-6500-101-DBA1,Oil Pipeline,oleoduto.shp,3.8559840989908314,1.0,0.0,0.0,onshore_NE
+A2 ÓLEO COM B,Oil Pipeline,oleoduto.shp,26.667565032685378,1.0,0.0,0.0,onshore_NE
+34-PE-08-031-BA,Oil Pipeline,oleoduto.shp,6.086686238952949,1.0,0.0,0.0,onshore_NE
+12-DS-04-015-CA,Oil Pipeline,oleoduto.shp,6.285756379090877,1.0,0.0,0.0,onshore_NE
+6-GA-04-017-CA,Oil Pipeline,oleoduto.shp,2.9266312392084353,1.0,0.0,0.0,onshore_NE
+4-GA-04-020-CA,Oil Pipeline,oleoduto.shp,6.28795032999299,1.0,0.0,0.0,onshore_NE
+6-QA-04-017-CA,Oil Pipeline,oleoduto.shp,6.287098613837954,1.0,0.0,0.0,onshore_NE
+LESTE POÇO XAVIER/LORENA,Oil Pipeline,oleoduto.shp,16.133621604273156,1.0,0.0,0.0,onshore_NE
+OLEODUTO SMI / PJ (DN 3 POL),Oil Pipeline,oleoduto.shp,6.842216737178375,1.0,0.0,0.0,onshore_NE
+OLEODUTO BE / LPX (DN 6 POL),Oil Pipeline,oleoduto.shp,5.502999326543406,1.0,0.0,0.0,onshore_NE
+6-HC-06-001-CA,Oil Pipeline,oleoduto.shp,8.906641614888786,1.0,0.0,0.0,onshore_NE
+OLEODUTO RP-A/ET-B DN 12 POL,Oil Pipeline,oleoduto.shp,8.78655341672137,1.0,0.0,0.0,onshore_NE
+OLEODUTO CAM-H / CAM-D (DN 13.3/8 POL),Oil Pipeline,oleoduto.shp,1.8563376559348685,1.0,0.0,0.0,onshore_NE
+OLEODUTO CAM-G / CAM-A (DN 13.3/8 POL),Oil Pipeline,oleoduto.shp,1.756349172588586,1.0,0.0,0.0,onshore_NE

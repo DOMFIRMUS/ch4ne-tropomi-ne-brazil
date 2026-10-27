@@ -1,0 +1,2 @@
+mu_weighted,sigma_weighted,n_centroid,n_touched,n_weighted_sum,mu_centroid,sigma_centroid,threshold,area_km2,n_pixels_z2,clusters_identity,clusters_dilate2,clusters_opening,published_mu,published_sigma,published_n
+1880.1511397349148,9.045479084688882,32263,32894,32261.265625,1880.1486675013089,9.09204041115724,1898.2420979042925,24128.60814690158,498,108,54,3,1880.14,9.39,32904

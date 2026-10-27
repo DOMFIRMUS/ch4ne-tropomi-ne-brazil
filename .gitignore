@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Earth Engine rasters and large derived files: archive on Zenodo, not GitHub.
+# The provenance record and the monthly background table ARE versioned.
+outputs_v4*/gee/*
+!outputs_v4*/gee/PROVENANCE.json
+!outputs_v4*/gee/monthly_background.csv
+!outputs_v4*/gee/*.bands.json
+outputs_v4*/*.tif
+outputs_v4*/pixels_strict.csv.gz
+
+# Credentials must never be committed
+credentials
+*.json.key
+*service-account*.json
+*-key.json
+.config/
+.env
+
+# OS / editors
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Internal notes and run logs (they hold local paths); not needed to reproduce the results
+docs/PENDENCIAS_ATUALIZADO.md
+outputs_v4*/logs/
+validacao_v4_1/*.log

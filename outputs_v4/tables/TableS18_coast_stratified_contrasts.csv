@@ -1,0 +1,13 @@
+variable,strata,estimate,ci95_low,ci95_high,n_near,n_near_in_strata_with_far,n_near_blocks_used,n_far_blocks_used,n_valid_reps
+anom_mean,coast_band,-3.64404,-13.4315,26.6156,168,168,12,38,2000
+enh,coast_band,-1.42403,-5.07925,8.45945,168,168,12,38,2000
+anom_sd,coast_band,1.68022,-13.4739,7.48733,168,168,12,38,2000
+tail_up_90,coast_band,1.47547,-12.5569,5.23124,168,168,12,38,2000
+tail_lo_10,coast_band,1.96918,-23.9044,12.2066,168,168,12,38,2000
+tail_asym_90,coast_band,-0.493712,-7.57398,9.83379,168,168,12,38,2000
+anom_mean,coast_bandxUF,1.59086,-2.37593,17.5225,168,82,5,11,1977
+enh,coast_bandxUF,0.4605,-3.17187,9.84432,168,82,5,11,1977
+anom_sd,coast_bandxUF,0.0777859,-6.21746,1.15075,168,82,5,11,1977
+tail_up_90,coast_bandxUF,0.828873,-5.07093,1.57467,168,82,5,11,1977
+tail_lo_10,coast_bandxUF,-1.66504,-20.6611,0.108813,168,82,5,11,1977
+tail_asym_90,coast_bandxUF,2.49391,1.32969,16.0852,168,82,5,11,1977

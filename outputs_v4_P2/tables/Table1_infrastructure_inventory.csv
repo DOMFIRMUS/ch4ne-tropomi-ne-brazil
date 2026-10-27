@@ -1,0 +1,6 @@
+infrastructure_type,segments_onshore_NE,segments_offshore,segments_other_state,length_on_NE_land_km,segments_total
+Distribution gas pipeline,7,0,1,2782.2,8
+Gathering gas pipeline,96,62,14,1742.9,172
+Oil pipeline,136,65,13,2331.9,214
+Transport gas pipeline,23,0,0,3023,23
+Total,262,127,28,9880,417

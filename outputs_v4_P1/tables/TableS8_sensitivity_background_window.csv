@@ -1,0 +1,5 @@
+window_km,n_clusters,n_clusters_q,n_negative_mirror,robust_sigma_ppb
+110,70,0,36,3.40681
+220,67,0,20,3.96435
+330,64,0,15,4.18779
+550,56,0,12,4.71837

@@ -1,0 +1,4 @@
+radius_km,n_clusters,observed_peaks_within,share_within,area_share_within,expected_peaks_within_area_null,enrichment_vs_area,p_binomial_area_null,n_mirror_clusters,mirror_peaks_within,mirror_share_within,odds_ratio_vs_mirror,p_fisher_vs_mirror,odds_ratio_mh_coast_stratified,p_cmh_coast_stratified,coast_stratified_test,coast_strata_counts
+5,67,0,0,0.00491708,0.329444,0,1,20,0,0,,1,,,no_informative_stratum,"coast <=50 km: pos 0/0, mirror 0/1; coast >50 km: pos 0/67, mirror 0/19"
+10,67,0,0,0.00779146,0.522028,0,1,20,0,0,,1,,,no_informative_stratum,"coast <=50 km: pos 0/0, mirror 0/1; coast >50 km: pos 0/67, mirror 0/19"
+20,67,0,0,0.0124797,0.83614,0,1,20,0,0,,1,,,no_informative_stratum,"coast <=50 km: pos 0/0, mirror 0/1; coast >50 km: pos 0/67, mirror 0/19"

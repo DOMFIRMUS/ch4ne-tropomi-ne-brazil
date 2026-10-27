@@ -1,0 +1,561 @@
+{
+  "run": {
+    "created_utc": "2026-10-01T12:57:11+00:00",
+    "config": {
+      "base_dir": "C:\\Users\\jeanf\\Downloads\\DOUTORADO\\Artigos produzidos\\hotspot de metano\\pipeline_v4",
+      "infra_dir": "data/anp",
+      "out_dir_name": "outputs_v4",
+      "run_label": "P2",
+      "gee_project": "deep-presence-470415-u2",
+      "collection": "COPERNICUS/S5P/OFFL/L3_CH4",
+      "band": "CH4_column_volume_mixing_ratio_dry_air_bias_corrected",
+      "uncertainty_band": "CH4_column_volume_mixing_ratio_dry_air_uncertainty",
+      "aod_band": "aerosol_optical_depth",
+      "start_date": "2022-07-17",
+      "end_date": "2025-12-31",
+      "max_uncertainty_ppb": 15.0,
+      "max_aod_swir": 0.13,
+      "overpass_start_hour_utc": 13,
+      "overpass_end_hour_utc": 18,
+      "grid_res_deg": 0.0625,
+      "grid_west": -50.0,
+      "grid_east": -34.0,
+      "grid_south": -20.0,
+      "grid_north": 0.5,
+      "min_cell_valid_fraction": 0.3,
+      "min_bg_cells_per_month": 500,
+      "percentile_max_raw": 3000,
+      "parallel_scale": 4,
+      "tile_scale": 4,
+      "stats_tile_px": 128,
+      "covariates_tile_px": 32,
+      "monthly_tile_px": 128,
+      "states_url": "https://raw.githubusercontent.com/codeforamerica/click_that_hood/master/public/data/brazil-states.geojson",
+      "states_file": "data/limites/brazil-states.geojson",
+      "ne_states": [
+        "MA",
+        "PI",
+        "CE",
+        "RN",
+        "PB",
+        "PE",
+        "AL",
+        "SE",
+        "BA"
+      ],
+      "infra_files": {
+        "gasoduto-escoamento.shp": [
+          "Gathering gas pipeline",
+          "Nome_Dut_1"
+        ],
+        "gasoduto-distribuicao.shp": [
+          "Distribution gas pipeline",
+          "Distrib"
+        ],
+        "gasoduto-transporte.shp": [
+          "Transport gas pipeline",
+          "Nome_Dut_1"
+        ],
+        "oleoduto.shp": [
+          "Oil pipeline",
+          "Nome_Dut_1"
+        ]
+      },
+      "onshore_share_min": 0.5,
+      "simplify_tolerance_deg": 1e-05,
+      "min_obs": 29,
+      "min_valid_month_fraction": 0.3333333333333333,
+      "coast_buffer_km": 10.0,
+      "min_land_fraction": 0.9,
+      "max_water_fraction": 0.2,
+      "local_bg_window_km": 220.0,
+      "sensitivity_windows_km": [
+        110.0,
+        220.0,
+        330.0,
+        550.0
+      ],
+      "z_threshold": 2.5,
+      "min_cluster_pixels": 2,
+      "eight_connected": true,
+      "q_threshold": 0.1,
+      "ring_edges_km": [
+        "0.0",
+        "5.0",
+        "15.0",
+        "50.0",
+        "inf"
+      ],
+      "near_ring": "0-5 km",
+      "far_ring": ">=50 km",
+      "attribution_radius_km": [
+        5.0,
+        10.0,
+        20.0
+      ],
+      "attribution_coast_strata_km": [
+        50.0
+      ],
+      "bootstrap_block_deg": 2.0,
+      "sensitivity_blocks_deg": [
+        1.0,
+        2.0,
+        3.0
+      ],
+      "n_boot": 2000,
+      "n_matched_controls": 5,
+      "match_method": "ps_mahalanobis",
+      "match_caliper_ps_sd": 0.2,
+      "match_caliper": 0.5,
+      "random_seed": 42,
+      "dpi": 600,
+      "fig_width_full_in": 6.9,
+      "fig_width_col_in": 3.4,
+      "font_size": 8.0,
+      "legacy_scale_m": 7000.0,
+      "published_mu": 1880.14,
+      "published_sigma": 9.39,
+      "published_n": 32904,
+      "min_valid_months": 14,
+      "n_months": 42
+    },
+    "cli": [
+      "scripts/run_pipeline.py",
+      "analyze",
+      "--start",
+      "2022-07-17",
+      "--end",
+      "2025-12-31",
+      "--label",
+      "P2",
+      "--min-obs",
+      "29"
+    ],
+    "software": {
+      "numpy": "2.5.3",
+      "pandas": "3.0.6",
+      "scipy": "1.18.1",
+      "geopandas": "1.1.4",
+      "shapely": "2.1.2",
+      "pyproj": "3.8.0",
+      "pyogrio": "0.13.0",
+      "rasterio": "1.5.1",
+      "affine": "3.0.1",
+      "statsmodels": "0.15.0",
+      "matplotlib": "3.11.2",
+      "earthengine-api": "1.7.45",
+      "python": "3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)]",
+      "platform": "Windows-11-10.0.26200-SP0",
+      "ch4ne": "4.1.0",
+      "gdal": "3.12.4",
+      "proj": "9.8.1"
+    }
+  },
+  "infra_segments_total_selected": 417,
+  "infra_segments_by_location": {
+    "onshore NE": 262,
+    "offshore": 127,
+    "other state": 28
+  },
+  "infra_length_on_ne_land_km_geodesic": 9880.005137679824,
+  "min_valid_months_applied": 14,
+  "pixels_in_NE_with_data": 32484,
+  "pixels_relaxed_screen": 24850,
+  "pixels_strict_screen": 23997,
+  "pixels_removed_low_counts": 7634,
+  "pixels_removed_coast_water": 853,
+  "n_obs_median_NE": 71.0,
+  "n_obs_p05_NE": 8.0,
+  "n_months_median_NE": 21.0,
+  "enh_median_ppb": 0.06717681884765625,
+  "enh_robust_sigma_ppb": 3.5526523392677305,
+  "detection_threshold_enh_ppb": 8.948807667016982,
+  "n_clusters": 87,
+  "n_negative_mirror_clusters": 63,
+  "fdr_mirror_point_estimate": 0.7241379310344828,
+  "n_clusters_q_le_threshold": 0,
+  "q_threshold": 0.1,
+  "area_suprathreshold_km2": 30840.090254479233,
+  "area_in_clusters_km2": 28378.748839308722,
+  "area_strict_km2": 1138709.519486474,
+  "pipeline_coast_collocation": [
+    {
+      "group": "cells <= 5 km from a pipeline",
+      "n_cells": 847,
+      "median_dist_coast_km": 27.98180946771195,
+      "share_within_10km_of_coast": 0.1322314049586777,
+      "share_within_20km_of_coast": 0.29988193624557263,
+      "share_within_50km_of_coast": 0.7792207792207793
+    },
+    {
+      "group": "all NE cells",
+      "n_cells": 32751,
+      "median_dist_coast_km": 298.58393595013536,
+      "share_within_10km_of_coast": 0.022686330188391193,
+      "share_within_20km_of_coast": 0.04234985191291869,
+      "share_within_50km_of_coast": 0.10124881683002046
+    }
+  ],
+  "matching": {
+    "method": "ps_mahalanobis",
+    "propensity_fit": "logit",
+    "caliper": 0.2,
+    "caliper_abs": 1.7336269973367888,
+    "k": 5,
+    "n_near": 229,
+    "n_near_matched": 229,
+    "n_near_unmatched": 0,
+    "n_control_rows": 943,
+    "n_distinct_controls": 242,
+    "max_reuse_of_one_control": 85,
+    "effective_n_controls": 20.45120399205991,
+    "weight_share_top3_controls": 0.33871906841339156,
+    "top3_controls": [
+      {
+        "lon": -39.09375,
+        "lat": -14.03125,
+        "UF": "BA",
+        "dist_coast_km": 15.312724083525072,
+        "weight_share": 0.14548762736535661
+      },
+      {
+        "lon": -39.09375,
+        "lat": -14.09375,
+        "UF": "BA",
+        "dist_coast_km": 13.579421443905245,
+        "weight_share": 0.13500727802037846
+      },
+      {
+        "lon": -38.96875,
+        "lat": -15.84375,
+        "UF": "BA",
+        "dist_coast_km": 10.660021725255705,
+        "weight_share": 0.05822416302765647
+      }
+    ],
+    "control_set_sizes": {
+      "1": 4,
+      "2": 41,
+      "3": 26,
+      "4": 11,
+      "5": 147
+    },
+    "max_abs_smd_after": 0.6774125239719689,
+    "n_covariates_abs_smd_after_gt_0_1": 7,
+    "ps_logit_median_near": 1.2272811521767362,
+    "ps_logit_p99_far": -2.1606460513389005,
+    "share_near_above_far_p99": 0.8908296943231441
+  },
+  "matching_euclidean_sensitivity": {
+    "method": "euclidean",
+    "propensity_fit": null,
+    "caliper": 0.5,
+    "caliper_abs": 0.5,
+    "k": 5,
+    "n_near": 229,
+    "n_near_matched": 11,
+    "n_near_unmatched": 218,
+    "n_control_rows": 20,
+    "n_distinct_controls": 16,
+    "max_reuse_of_one_control": 3,
+    "effective_n_controls": 9.283887468030692,
+    "weight_share_top3_controls": 0.4727272727272727,
+    "top3_controls": [
+      {
+        "lon": -38.34375,
+        "lat": -5.21875,
+        "UF": "CE",
+        "dist_coast_km": 104.65565745455925,
+        "weight_share": 0.2
+      },
+      {
+        "lon": -38.34375,
+        "lat": -5.03125,
+        "UF": "CE",
+        "dist_coast_km": 90.2203747286083,
+        "weight_share": 0.18181818181818182
+      },
+      {
+        "lon": -38.46875,
+        "lat": -4.71875,
+        "UF": "CE",
+        "dist_coast_km": 72.6787154028208,
+        "weight_share": 0.09090909090909091
+      }
+    ],
+    "control_set_sizes": {
+      "1": 6,
+      "2": 3,
+      "3": 1,
+      "5": 1
+    },
+    "max_abs_smd_after": 0.17852883738039813,
+    "n_covariates_abs_smd_after_gt_0_1": 3
+  },
+  "covariates_used": [
+    "dist_coast_km",
+    "lat",
+    "albedo_b7",
+    "water_frac",
+    "elev_mean",
+    "elev_sd",
+    "log_n_obs",
+    "frac_janjun",
+    "aod_mean"
+  ],
+  "near_ring_effective_n_blocks": 4.262456311468749,
+  "leave_one_block_out_range": {
+    "anom_mean": [
+      -5.644526777046203,
+      1.646833665975524
+    ],
+    "anom_sd": [
+      4.070285234943274,
+      8.958472117154832
+    ],
+    "enh": [
+      -6.51764067134766,
+      -2.9197157567146124
+    ],
+    "tail_asym_90": [
+      -7.275449210171482,
+      -2.4705618668660136
+    ],
+    "tail_lo_10": [
+      6.462511690893212,
+      14.191373230459494
+    ],
+    "tail_up_90": [
+      3.5322782459009634,
+      6.915924020288015
+    ]
+  },
+  "v3_style_spatial_sd_by_ring_relaxed": {
+    "0-5 km": 14.901107862321266,
+    "5-15 km": 14.05235292660803,
+    "15-50 km": 13.327812316352844,
+    ">=50 km": 6.741394309092856
+  },
+  "regional_background_trend": {
+    "slope_ppb_per_yr": 5.789144473978638,
+    "slope_se": 0.5569359945189719,
+    "slope_se_nw_lag3": 0.5569359945189719,
+    "slope_se_nw_lag6": 0.43229596291333844,
+    "slope_with_processor_steps_ppb_per_yr": 5.789144473978638,
+    "slope_with_processor_steps_se_nw": 0.5569359945189719,
+    "corr_slope_last_step": null,
+    "aic_trend_only": 239.75981090737466,
+    "aic_with_steps": 239.75981090737466,
+    "seasonal_amplitude_ppb": 6.911489997281201,
+    "annual_harmonic_amplitude_ppb": 4.28235368234454,
+    "semiannual_harmonic_amplitude_ppb": 3.6366617106773145,
+    "n_months_used": 42,
+    "n_months_dropped": 0,
+    "months_dropped": [],
+    "r2": 0.7741144685960231
+  },
+  "provenance": {
+    "created_utc": "2026-09-30T16:39:19+00:00",
+    "collection": "COPERNICUS/S5P/OFFL/L3_CH4",
+    "band": "CH4_column_volume_mixing_ratio_dry_air_bias_corrected",
+    "start_date": "2022-07-17",
+    "end_date": "2025-12-31",
+    "run_label": "P2",
+    "earthengine_api": "1.7.45",
+    "collection_versions": {
+      "first_orbit": "2022-07-17T01:27",
+      "last_orbit": "2025-12-31T23:38",
+      "n_orbits": 16848,
+      "n_orbits_used": 4204,
+      "processor_versions": {
+        "02.09.01": 559,
+        "2.3.1": 2,
+        "2.4.0": 2890,
+        "2.5.0": 3127,
+        "2.6.0": 4045,
+        "2.7.1": 977,
+        "2.8.0": 5248
+      }
+    },
+    "run_properties": {
+      "ch4ne_version": "4.1.0",
+      "ch4ne_start": "2022-07-17",
+      "ch4ne_end": "2025-12-31",
+      "ch4ne_label": "P2",
+      "ch4ne_params": "{\"aod_band\": \"aerosol_optical_depth\", \"band\": \"CH4_column_volume_mixing_ratio_dry_air_bias_corrected\", \"collection\": \"COPERNICUS/S5P/OFFL/L3_CH4\", \"end_date\": \"2025-12-31\", \"grid_east\": -34.0, \"grid_north\": 0.5, \"grid_res_deg\": 0.0625, \"grid_south\": -20.0, \"grid_west\": -50.0, \"max_aod_swir\": 0.13, \"max_uncertainty_ppb\": 15.0, \"min_bg_cells_per_month\": 500, \"min_cell_valid_fraction\": 0.3, \"overpass_end_hour_utc\": 18, \"overpass_start_hour_utc\": 13, \"percentile_max_raw\": 3000, \"run_label\": \"P2\", \"start_date\": \"2022-07-17\", \"uncertainty_band\": \"CH4_column_volume_mixing_ratio_dry_air_uncertainty\"}"
+    },
+    "assets": {
+      "stats": {
+        "id": "projects/deep-presence-470415-u2/assets/ch4ne_v4_P2/stats",
+        "update_time": "2026-09-30T15:12:37.354597Z",
+        "size_bytes": "5067743",
+        "bands": 17,
+        "properties": {
+          "ch4ne_params": "{\"aod_band\": \"aerosol_optical_depth\", \"band\": \"CH4_column_volume_mixing_ratio_dry_air_bias_corrected\", \"collection\": \"COPERNICUS/S5P/OFFL/L3_CH4\", \"end_date\": \"2025-12-31\", \"grid_east\": -34.0, \"grid_north\": 0.5, \"grid_res_deg\": 0.0625, \"grid_south\": -20.0, \"grid_west\": -50.0, \"max_aod_swir\": 0.13, \"max_uncertainty_ppb\": 15.0, \"min_bg_cells_per_month\": 500, \"min_cell_valid_fraction\": 0.3, \"overpass_end_hour_utc\": 18, \"overpass_start_hour_utc\": 13, \"percentile_max_raw\": 3000, \"run_label\": \"P2\", \"start_date\": \"2022-07-17\", \"uncertainty_band\": \"CH4_column_volume_mixing_ratio_dry_air_uncertainty\"}",
+          "ch4ne_version": "4.1.0",
+          "ch4ne_start": "2022-07-17",
+          "ch4ne_end": "2025-12-31",
+          "ch4ne_label": "P2"
+        }
+      },
+      "monthly_2022": {
+        "id": "projects/deep-presence-470415-u2/assets/ch4ne_v4_P2/monthly_2022",
+        "update_time": "2026-09-30T13:38:00.902216Z",
+        "size_bytes": "1149435",
+        "bands": 12,
+        "properties": {
+          "ch4ne_params": "{\"aod_band\": \"aerosol_optical_depth\", \"band\": \"CH4_column_volume_mixing_ratio_dry_air_bias_corrected\", \"collection\": \"COPERNICUS/S5P/OFFL/L3_CH4\", \"end_date\": \"2025-12-31\", \"grid_east\": -34.0, \"grid_north\": 0.5, \"grid_res_deg\": 0.0625, \"grid_south\": -20.0, \"grid_west\": -50.0, \"max_aod_swir\": 0.13, \"max_uncertainty_ppb\": 15.0, \"min_bg_cells_per_month\": 500, \"min_cell_valid_fraction\": 0.3, \"overpass_end_hour_utc\": 18, \"overpass_start_hour_utc\": 13, \"percentile_max_raw\": 3000, \"run_label\": \"P2\", \"start_date\": \"2022-07-17\", \"uncertainty_band\": \"CH4_column_volume_mixing_ratio_dry_air_uncertainty\"}",
+          "ch4ne_version": "4.1.0",
+          "ch4ne_start": "2022-07-17",
+          "ch4ne_end": "2025-12-31",
+          "ch4ne_label": "P2"
+        }
+      },
+      "monthly_2023": {
+        "id": "projects/deep-presence-470415-u2/assets/ch4ne_v4_P2/monthly_2023",
+        "update_time": "2026-09-30T13:46:33.261490Z",
+        "size_bytes": "2478586",
+        "bands": 24,
+        "properties": {
+          "ch4ne_params": "{\"aod_band\": \"aerosol_optical_depth\", \"band\": \"CH4_column_volume_mixing_ratio_dry_air_bias_corrected\", \"collection\": \"COPERNICUS/S5P/OFFL/L3_CH4\", \"end_date\": \"2025-12-31\", \"grid_east\": -34.0, \"grid_north\": 0.5, \"grid_res_deg\": 0.0625, \"grid_south\": -20.0, \"grid_west\": -50.0, \"max_aod_swir\": 0.13, \"max_uncertainty_ppb\": 15.0, \"min_bg_cells_per_month\": 500, \"min_cell_valid_fraction\": 0.3, \"overpass_end_hour_utc\": 18, \"overpass_start_hour_utc\": 13, \"percentile_max_raw\": 3000, \"run_label\": \"P2\", \"start_date\": \"2022-07-17\", \"uncertainty_band\": \"CH4_column_volume_mixing_ratio_dry_air_uncertainty\"}",
+          "ch4ne_version": "4.1.0",
+          "ch4ne_start": "2022-07-17",
+          "ch4ne_end": "2025-12-31",
+          "ch4ne_label": "P2"
+        }
+      },
+      "monthly_2024": {
+        "id": "projects/deep-presence-470415-u2/assets/ch4ne_v4_P2/monthly_2024",
+        "update_time": "2026-09-30T13:44:01.274421Z",
+        "size_bytes": "2602432",
+        "bands": 24,
+        "properties": {
+          "ch4ne_params": "{\"aod_band\": \"aerosol_optical_depth\", \"band\": \"CH4_column_volume_mixing_ratio_dry_air_bias_corrected\", \"collection\": \"COPERNICUS/S5P/OFFL/L3_CH4\", \"end_date\": \"2025-12-31\", \"grid_east\": -34.0, \"grid_north\": 0.5, \"grid_res_deg\": 0.0625, \"grid_south\": -20.0, \"grid_west\": -50.0, \"max_aod_swir\": 0.13, \"max_uncertainty_ppb\": 15.0, \"min_bg_cells_per_month\": 500, \"min_cell_valid_fraction\": 0.3, \"overpass_end_hour_utc\": 18, \"overpass_start_hour_utc\": 13, \"percentile_max_raw\": 3000, \"run_label\": \"P2\", \"start_date\": \"2022-07-17\", \"uncertainty_band\": \"CH4_column_volume_mixing_ratio_dry_air_uncertainty\"}",
+          "ch4ne_version": "4.1.0",
+          "ch4ne_start": "2022-07-17",
+          "ch4ne_end": "2025-12-31",
+          "ch4ne_label": "P2"
+        }
+      },
+      "monthly_2025": {
+        "id": "projects/deep-presence-470415-u2/assets/ch4ne_v4_P2/monthly_2025",
+        "update_time": "2026-09-30T13:53:37.619875Z",
+        "size_bytes": "2530130",
+        "bands": 24,
+        "properties": {
+          "ch4ne_params": "{\"aod_band\": \"aerosol_optical_depth\", \"band\": \"CH4_column_volume_mixing_ratio_dry_air_bias_corrected\", \"collection\": \"COPERNICUS/S5P/OFFL/L3_CH4\", \"end_date\": \"2025-12-31\", \"grid_east\": -34.0, \"grid_north\": 0.5, \"grid_res_deg\": 0.0625, \"grid_south\": -20.0, \"grid_west\": -50.0, \"max_aod_swir\": 0.13, \"max_uncertainty_ppb\": 15.0, \"min_bg_cells_per_month\": 500, \"min_cell_valid_fraction\": 0.3, \"overpass_end_hour_utc\": 18, \"overpass_start_hour_utc\": 13, \"percentile_max_raw\": 3000, \"run_label\": \"P2\", \"start_date\": \"2022-07-17\", \"uncertainty_band\": \"CH4_column_volume_mixing_ratio_dry_air_uncertainty\"}",
+          "ch4ne_version": "4.1.0",
+          "ch4ne_start": "2022-07-17",
+          "ch4ne_end": "2025-12-31",
+          "ch4ne_label": "P2"
+        }
+      },
+      "monthly_background": {
+        "id": "projects/deep-presence-470415-u2/assets/ch4ne_v4_P2/monthly_background",
+        "update_time": "2026-09-30T13:09:37.265726Z",
+        "size_bytes": "6773",
+        "properties": {
+          "ch4ne_end": "2025-12-31",
+          "ch4ne_label": "P2",
+          "ch4ne_params": "{\"aod_band\": \"aerosol_optical_depth\", \"band\": \"CH4_column_volume_mixing_ratio_dry_air_bias_corrected\", \"collection\": \"COPERNICUS/S5P/OFFL/L3_CH4\", \"end_date\": \"2025-12-31\", \"grid_east\": -34.0, \"grid_north\": 0.5, \"grid_res_deg\": 0.0625, \"grid_south\": -20.0, \"grid_west\": -50.0, \"max_aod_swir\": 0.13, \"max_uncertainty_ppb\": 15.0, \"min_bg_cells_per_month\": 500, \"min_cell_valid_fraction\": 0.3, \"overpass_end_hour_utc\": 18, \"overpass_start_hour_utc\": 13, \"percentile_max_raw\": 3000, \"run_label\": \"P2\", \"start_date\": \"2022-07-17\", \"uncertainty_band\": \"CH4_column_volume_mixing_ratio_dry_air_uncertainty\"}",
+          "ch4ne_start": "2022-07-17",
+          "ch4ne_version": "4.1.0"
+        }
+      }
+    },
+    "files": {
+      "covariates": {
+        "path": "covariates.tif",
+        "sha256": "d03f26493f7fd4c604e9829571be0a87dabc3d3833d8da411f9642203b19366f"
+      },
+      "stats": {
+        "path": "stats.tif",
+        "sha256": "9b80c3ea3e2af1d54860dcd555aa74e0a4e687ec0560fff312b0d3839cf70997"
+      },
+      "monthly_anom": {
+        "path": "monthly_anom.tif",
+        "sha256": "e518cef855da0368127bef93237850e57b3bc32abeff984fc5266cd73ee4baec"
+      },
+      "monthly_count": {
+        "path": "monthly_count.tif",
+        "sha256": "87d8099a7d513053a1312109b4d9a9aaec19559f9953f09e7071d3c6f196ea31"
+      },
+      "covariates_bands": {
+        "path": "covariates.bands.json",
+        "sha256": "d8f2fe61dca38f35d90f74f313f9b18ef9e98577e7a71a401a94487a9bb1ace4"
+      },
+      "stats_bands": {
+        "path": "stats.bands.json",
+        "sha256": "82e6a922875cf8e6ac6d8e527097b9dfc18df244331a6e88aaf68dddc2970e73"
+      },
+      "monthly_anom_bands": {
+        "path": "monthly_anom.bands.json",
+        "sha256": "f905444a3d30e3ff226251da655881228184bcdb338ffd7eb405bbbf8bb1a459"
+      },
+      "monthly_count_bands": {
+        "path": "monthly_count.bands.json",
+        "sha256": "6b2041ffd5455616089cfbd08054d5d559d7123e4c159cafac0fcf9adea710cd"
+      },
+      "background": {
+        "path": "monthly_background.csv",
+        "sha256": "056c90b08fad181d5afb405ce8c11a48f1717a9ada7a7d6b0aa7562b87506981"
+      },
+      "task_costs": {
+        "path": "gee_tasks.csv",
+        "sha256": "e2fe677b9392a0bfff29cb1650dd72405bc98ce80deb55a81f48db9b28c122cf"
+      }
+    }
+  },
+  "outputs": [
+    "clusters_v4.geojson",
+    "derived_fields.tif",
+    "figures\\Fig01_study_area_infrastructure.pdf",
+    "figures\\Fig01_study_area_infrastructure.png",
+    "figures\\Fig02_composite_and_data_density.pdf",
+    "figures\\Fig02_composite_and_data_density.png",
+    "figures\\Fig03_regional_background_trend.pdf",
+    "figures\\Fig03_regional_background_trend.png",
+    "figures\\Fig04_anomaly_and_clusters.pdf",
+    "figures\\Fig04_anomaly_and_clusters.png",
+    "figures\\Fig05_distributions.pdf",
+    "figures\\Fig05_distributions.png",
+    "figures\\Fig06_states.pdf",
+    "figures\\Fig06_states.png",
+    "figures\\Fig07_proximity_rings.pdf",
+    "figures\\Fig07_proximity_rings.png",
+    "figures\\Fig08_cluster_timeseries.pdf",
+    "figures\\Fig08_cluster_timeseries.png",
+    "figures\\FigS1_sensitivity.pdf",
+    "figures\\FigS1_sensitivity.png",
+    "logs\\analise_P2.log",
+    "logs\\run_P2.log",
+    "pixels_strict.csv.gz",
+    "run_config.json",
+    "tables\\Table1_infrastructure_inventory.csv",
+    "tables\\Table2_states_strict.csv",
+    "tables\\Table3_clusters.csv",
+    "tables\\Table4_attribution_enrichment.csv",
+    "tables\\Table5_proximity_rings_relaxed.csv",
+    "tables\\Table5_proximity_rings_strict.csv",
+    "tables\\Table6_near_vs_far_bootstrap_relaxed.csv",
+    "tables\\Table6_near_vs_far_bootstrap_strict.csv",
+    "tables\\Table7_near_vs_matched_controls.csv",
+    "tables\\Table8_regressions_cluster_robust.csv",
+    "tables\\TableS10_block_size_bootstrap.csv",
+    "tables\\TableS11_block_size_regressions.csv",
+    "tables\\TableS13_matching_euclidean_sensitivity.csv",
+    "tables\\TableS14_mirror_by_stratum.csv",
+    "tables\\TableS15_sign_symmetry.csv",
+    "tables\\TableS16_leave_one_block_out.csv",
+    "tables\\TableS17_sensitivity_significant_clusters.csv",
+    "tables\\TableS18_coast_stratified_contrasts.csv",
+    "tables\\TableS1_infrastructure_segments.csv",
+    "tables\\TableS3_states_relaxed.csv",
+    "tables\\TableS4_matching_balance.csv",
+    "tables\\TableS5_monthly_background.csv",
+    "tables\\TableS6_cluster_monthly_series.csv",
+    "tables\\TableS7_sensitivity.csv",
+    "tables\\TableS8_sensitivity_background_window.csv",
+    "tables\\TableS9_pipeline_coast_collocation.csv"
+  ]
+}
